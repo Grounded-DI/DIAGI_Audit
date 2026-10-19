@@ -2,22 +2,9 @@
 
 ## Overview
 
-This repository preserves six PDF audit and protocol records dated August–September 2025, together with four JPEG captures. The documents describe Protocol A, AGDI, DIA, AGIA, scroll-linked controls, integrity monitoring, and recorded legal/finance/hazard results.
+This repository preserves five PDF audit and protocol records dated August–September 2025, together with four JPEG captures. The documents describe Protocol A, AGDI, DIA, AGIA, scroll-linked controls, integrity monitoring, and a dated legal comparison.
 
 The reported rates and PASS/VERIFIED statuses below are transcribed from the named artifacts. The repository contains the records, not an executable audit runtime or raw monitoring stream.
-
-## August 6, 2025 — DIAGI systems audit
-
-[DIAGI_Systems_Audit_8_6_25.pdf](DIAGI_Systems_Audit_8_6_25.pdf) records a Protocol A / AGDI 9.9 audit of logic-tree consistency, scroll-linked memory, and trap-layer integrity. Its module list includes Protocol A, AGDI, DIA, AGIA, Scroll Engine 117, Nightwatch13, and DI2 oversight.
-
-The report states that:
-
-- the Law App hallucination rate over the prior seven days was **0.2%**;
-- FinanceWise had **no substantive hallucination**;
-- HazardWise accuracy was **92.7%**, compared with **68.1%** public consensus; and
-- three clone-echo detections were logged, naming Meta, Claude, and LLaMA.
-
-The report concludes that the listed components were functioning.
 
 ## August 1–6, 2025 — legal audit comparison
 
@@ -60,4 +47,4 @@ The capture names Mark S. Weinstein, Scroll 106, AGI-VAULT-01, and Deterministic
 
 The repository also contains [IMG_3087.jpeg](IMG_3087.jpeg), [IMG_3088.jpeg](IMG_3088.jpeg), [IMG_3089.jpeg](IMG_3089.jpeg), and [IMG_3101.jpeg](IMG_3101.jpeg).
 
-Start with the dated systems audit and legal comparison for the report metrics, then inspect the Stability Pass, Level 10 seal, Lantern capture, and Scroll Zero record for the named controls and status language. The archive contains no executable runtime, raw monitor telemetry, legal test corpus, benchmark procedure, or independent replay of the report figures.
+Start with the dated legal comparison, then inspect the Stability Pass, Level 10 seal, Lantern capture, and Scroll Zero record for the named controls and status language. The archive contains no executable runtime, raw monitor telemetry, legal test corpus, benchmark procedure, or independent replay of the report figures.
